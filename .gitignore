@@ -6,3 +6,5 @@
 /expense-tracker-whatsapp-bot/migrations
 /expense-tracker-whatsapp-bot/myenv
 /expense-tracker-whatsapp-bot/app.log
+/expense-tracker-whatsapp-bot/.env
+/expense-tracker-whatsapp-bot/instance
